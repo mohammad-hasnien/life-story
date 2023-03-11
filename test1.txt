@@ -4,4 +4,5 @@ Ihave complete my HSC in 2021
 I have complete my BSC in 2026
 I have complete my MSc in..
 I habe started my full stack wev development job in 2023
-I will join mfile in 1 Dec 2023
+I will join mfile in 1 Dec 2023.
+logo alignment is centered.
